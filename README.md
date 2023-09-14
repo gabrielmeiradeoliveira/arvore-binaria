@@ -1,6 +1,6 @@
 # arvore-binaria
 
-Projeto para estudo do tema: árvore binária
+Estudo do tema: árvore binária
 <br>
 Linguagem utilizada: C
 <br>
